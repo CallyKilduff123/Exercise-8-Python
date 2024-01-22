@@ -6,4 +6,5 @@
 firstname = 'Cally'
 surname = 'Kilduff'
 
+# print command shows content of variables when programme is run
 print(firstname, surname)
